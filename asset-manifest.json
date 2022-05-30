@@ -1,16 +1,25 @@
 {
   "files": {
     "main.css": "./static/css/main.f9da53af.css",
-    "main.js": "./static/js/main.d8f8da56.js",
+    "main.js": "./static/js/main.6d2f780e.js",
+    "static/media/DSC00581.jpg": "./static/media/DSC00581.ab5b71c9eeed323c6d08.jpg",
+    "static/media/DSC00583.jpg": "./static/media/DSC00583.d915243c17fcedbc78a1.jpg",
+    "static/media/DSC_9814.jpg": "./static/media/DSC_9814.0ed2e30fe26d16fce8c0.jpg",
+    "static/media/DSC_9801.jpg": "./static/media/DSC_9801.f8be6bea8d6205314d90.jpg",
+    "static/media/DSC_9822.jpg": "./static/media/DSC_9822.fb5b74c9709827d4df9a.jpg",
+    "static/media/DSC_9812.jpg": "./static/media/DSC_9812.347155e4041c33fe704f.jpg",
+    "static/media/DSC_9761.jpg": "./static/media/DSC_9761.34f92be248daf61b88c6.jpg",
+    "static/media/tingey-injury-law-firm-6sl88x150Xs-unsplash.jpg": "./static/media/tingey-injury-law-firm-6sl88x150Xs-unsplash.1ee97f8308c7c5453edf.jpg",
+    "static/media/DSC_9799.jpg": "./static/media/DSC_9799.e489ab3b9ca09a70e3d0.jpg",
     "static/media/mesh.png": "./static/media/mesh.4c15ac9c8b661bf3d754.png",
     "static/media/waves.png": "./static/media/waves.5d00b2313a16c9f5f9d3.png",
     "static/media/LOGO.png": "./static/media/LOGO.22615d0c72cdc56e6189.png",
     "index.html": "./index.html",
     "main.f9da53af.css.map": "./static/css/main.f9da53af.css.map",
-    "main.d8f8da56.js.map": "./static/js/main.d8f8da56.js.map"
+    "main.6d2f780e.js.map": "./static/js/main.6d2f780e.js.map"
   },
   "entrypoints": [
     "static/css/main.f9da53af.css",
-    "static/js/main.d8f8da56.js"
+    "static/js/main.6d2f780e.js"
   ]
 }
